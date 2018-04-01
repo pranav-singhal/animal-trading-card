@@ -7,6 +7,9 @@ img{
   border-radius: 4px;
 
 }
+body{
+  font-family: 'Pacifico', cursive;
+}
 
 ul{
   list-style: none;
@@ -16,19 +19,20 @@ ul{
 #card{
   border: 2px solid grey;
   border-radius: 4px;
-  width: 320px;
+  width: 360px;
   background-color: rgb(110, 51, 19);
 }
 #info{
   border: 2px solid grey;
   border-radius: 4px;
-  margin: 10px;
-  padding: 10px;
+  margin: 30px;
+  padding: 6px;
   box-shadow: 0 25px 50px rgba(0, 0, 0, 0.2);
 }
 
 h3{
   padding-left: 10px;
+
 }
 a, a:hover, a:visited{
   color: brown;
